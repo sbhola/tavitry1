@@ -1,2 +1,8 @@
 master created file
+<<<<<<< HEAD
 file commited by master - commit 1.
+file committed by trybranch commit 1.
+file committed by trybranch commit 2.
+=======
+
+>>>>>>> trybranch
