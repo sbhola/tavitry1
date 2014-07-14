@@ -1,2 +1,3 @@
 master created file
 file committed by trybranch commit 1.
+file committed by trybranch commit 2.
